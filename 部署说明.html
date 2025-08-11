@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Storyline3课件部署说明</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .warning {
+            background-color: #f8d7da;
+            color: #721c24;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .step {
+            margin: 20px 0;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+            background-color: #f8f9fa;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Storyline3课件部署到GitHub说明</h1>
+
+    <div class="warning">
+        <strong>重要提示：</strong> 在运行部署脚本之前，请确保您已经在GitHub上创建了一个仓库，并修改了脚本中的仓库URL。
+    </div>
+
+    <h2>步骤1：准备GitHub仓库</h2>
+    <div class="step">
+        <ol>
+            <li>登录到您的GitHub账号</li>
+            <li>点击右上角的"+"按钮，选择"New repository"</li>
+            <li>填写仓库名称、描述等信息</li>
+            <li>点击"Create repository"按钮创建仓库</li>
+            <li>复制仓库的HTTPS URL（类似于 <code>https://github.com/yourusername/yourrepository.git</code>）</li>
+        </ol>
+    </div>
+
+    <h2>步骤2：修改部署脚本</h2>
+    <div class="step">
+        <p>用文本编辑器打开 <code>commit_and_push.bat</code> 文件，找到以下行：</p>
+        <pre><code>"C:\Program Files\Git\bin\git.exe" remote add origin https://github.com/yourusername/yourrepository.git</code></pre>
+        <p>将 <code>https://github.com/yourusername/yourrepository.git</code> 替换为您在步骤1中复制的仓库URL。</p>
+    </div>
+
+    <h2>步骤3：运行部署脚本</h2>
+    <div class="step">
+        <p>双击运行 <code>commit_and_push.bat</code> 文件，它将：</p>
+        <ol>
+            <li>添加所有文件到Git暂存区</li>
+            <li>提交更改</li>
+            <li>设置远程仓库</li>
+            <li>将文件推送到GitHub</li>
+        </ol>
+        <p>如果您看到"成功推送到GitHub"的消息，说明部署成功！</p>
+    </div>
+
+    <h2>步骤4：在GitHub Pages上发布（可选）</h2>
+    <div class="step">
+        <p>如果您想通过GitHub Pages托管您的课件，可以按照以下步骤操作：</p>
+        <ol>
+            <li>在GitHub仓库页面，点击"Settings"选项卡</li>
+            <li>在左侧菜单中，点击"Pages"</li>
+            <li>在"Source"部分，选择"main"分支，然后点击"Save"</li>
+            <li>等待几分钟，您的课件将可以通过 <code>https://yourusername.github.io/yourrepository/</code> 访问</li>
+        </ol>
+    </div>
+
+    <h2>常见问题</h2>
+    <div class="step">
+        <ul>
+            <li>如果遇到Git权限问题，请确保您已经配置了Git凭据，或者使用SSH URL代替HTTPS URL。</li>
+            <li>如果推送失败，可能是因为您的本地仓库与远程仓库不同步。您可以尝试先运行 <code>git pull</code> 命令，然后再推送。</li>
+            <li>如果您需要更多帮助，请参考 <a href="https://docs.github.com/" target="_blank">GitHub文档</a>。</li>
+        </ul>
+    </div>
+</body>
+</html>

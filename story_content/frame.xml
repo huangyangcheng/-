@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns01001100111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns11111100111" font="华文行楷" controllayout="npnxnanbsnfns11111100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="pxabnsnfns11111100111" font="华文行楷" controllayout="pxabnsnfns11111100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="npxnabnsnfns11111100111" font="华文行楷" controllayout="npxnabnsnfns11111100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="npnxnanbnsnfns11111100111" font="华文行楷" controllayout="npnxnanbnsnfns11111100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="pxabnsnfns11111100110" font="华文行楷" controllayout="pxabnsnfns11111100110" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="pxabnsnfns01001100111" font="华文行楷" controllayout="pxabnsnfns01001100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+    <layout name="pxabsnfns11111100111" font="华文行楷" controllayout="pxabsnfns11111100111" colorscheme="pxabnsnfns01001100111" string_table="pxabnsnfns01001100111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="归一问题-自学程序-8.9" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6aZewgHPcMM_DX279_DY513.swf" />
+              <option name="html5_logo_url" value="mobile/6MBGVizLJNA.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="华文楷体" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111100110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns01001100111">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns01001100111">
+      <string id="transcript">注释</string>
+      <string id="acc_play">播放</string>
+      <string id="outline">菜单</string>
+      <string id="glossary">词汇表</string>
+      <string id="filter">过滤器</string>
+      <string id="acc_previous">上一页</string>
+      <string id="search_in">搜索：</string>
+      <string id="acc_search_input">搜索</string>
+      <string id="search">搜索...</string>
+      <string id="search_results">搜索结果</string>
+      <string id="submit">提交</string>
+      <string id="acc_submit">提交</string>
+      <string id="submitall">提交全部</string>
+      <string id="acc_submitall">提交全部</string>
+      <string id="acc_skipnavigation">跳过导航。请按 Enter 键返回幻灯片。</string>
+      <string id="exit">退出</string>
+      <string id="finish">完成</string>
+      <string id="acc_finish">完成</string>
+      <string id="next">下一页</string>
+      <string id="acc_next">下一步</string>
+      <string id="acc_closed_captions">隐藏式字幕。按空格键可打开和关闭字幕。</string>
+      <string id="acc_pause">暂停</string>
+      <string id="acc_replay">重播</string>
+      <string id="resources">资源</string>
+      <string id="acc_resources">资源</string>
+      <string id="continueresponsive">继续</string>
+      <string id="question_list">问题清单</string>
+      <string id="more_info">更多信息</string>
+      <string id="bio">简历</string>
+      <string id="restart">重新启动</string>
+      <string id="send_an_email">发送电子邮件</string>
+      <string id="close">关闭</string>
+      <string id="check_include">检查包括</string>
+      <string id="clear">清除并返回菜单</string>
+      <string id="prev">上一个</string>
+      <string id="terms">条款</string>
+      <string id="definition">定义</string>
+      <string id="acc_definition">定义</string>
+      <string id="acc_volume">量</string>
+      <string id="continue">继续</string>
+      <string id="disabled_orientation">请旋转您的设备</string>
+      <string id="closed_captions">字幕</string>
+      <string id="transcript_chk">注释</string>
+      <string id="slide_text_chk">幻灯片文本</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="华文行楷">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6Etd7CrHwvW" displaytext="封面" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Etd7CrHwvW.6Y1oSlo7vpn" displaytext="封面层" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6F2GFiGje2i" displaytext="邀请函" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6F2GFiGje2i.6jHfCIMlepg" displaytext="邀请函" expand="false" type="slide" />
+            <slidelink slideid="_player.6F2GFiGje2i.5frJ68BGlyC" displaytext="邀请函层" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Z2E8R6iXHY" displaytext="入队考核" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Z2E8R6iXHY.6BKtevHGn4R" displaytext="口算1" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5daECHcd0Hy" displaytext="口算2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5dDDoJOkh8r" displaytext="口算3" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5u4qRpPyfHu" displaytext="口算4" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.64DSFFcYnek" displaytext="口算5" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.6GjhYnEMAXh" displaytext="口算6" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5YIZElDf2Jn" displaytext="口算7" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5ztn08lyKIv" displaytext="口算8" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.6D8YXSpBTTT" displaytext="单选1" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5psIjIw6wyA" displaytext="单选2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5p976p3OeZr" displaytext="单选3" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.6LTvZmMI3Gl" displaytext="拖拽题" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2E8R6iXHY.5gDBIdyAMXn" displaytext="拖拽题" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6JU3gUBus27" displaytext="实习体验" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6JU3gUBus27.6bx0KLT8GJ0" displaytext="大熊猫保护区求救" expand="false" type="slide" />
+            <slidelink slideid="_player.6JU3gUBus27.6K3X8CS2pcs" displaytext="单选，先求什么" expand="false" type="slide" />
+            <slidelink slideid="_player.6JU3gUBus27.6MloK9pJ5wD" displaytext="求单一量" expand="false" type="slide" />
+            <slidelink slideid="_player.6JU3gUBus27.6rosK4OLzRs" displaytext="分布计算" expand="false" type="slide" />
+            <slidelink slideid="_player.6JU3gUBus27.6LUE6PEoUbn" displaytext="列综合算式" expand="false" type="slide" />
+            <slidelink slideid="_player.6JU3gUBus27.6SpqPaSWncU" displaytext="实战演练引导" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5i005aHR7ib" displaytext="模块四：实战演练，多重任务-南极科考站" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5i005aHR7ib.5WsceGjbwkH" displaytext="任务一" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6aFrjFdaxXP" displaytext="第一步" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6ZHP2BHUvX4" displaytext="第二步" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.5q3YHFqaSBL" displaytext="包装袋" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.5fIxEyQpqON" displaytext="正方形" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6R9inKPbvfi" displaytext="线段" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6bv8xmVUys2" displaytext="第三步：明确计算顺序" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6r7aDJlwcjz" displaytext="第三步：分步计算" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.60sFEhHdDMJ" displaytext="第三步：综合计算" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.6gJTs73VA5w" displaytext="第四步：结果运用" expand="false" type="slide" />
+            <slidelink slideid="_player.5i005aHR7ib.5uiq8t4pNN0" displaytext="第五步：情境迁移" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.64kumz1sK4r" displaytext="模块四：实战演练，多重任务-非洲动物保护协会" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.64kumz1sK4r.65viMaKJIlT" displaytext="任务二" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.5sQ9M6bhwQC" displaytext="第一步" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.5zGsqo0A6ZR" displaytext="第二步" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.5z4mClJxn4U" displaytext="包装袋" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.6EvXNtn00Nn" displaytext="正方形" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.5f1AzY8cGI9" displaytext="线段" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.6RbjL9oejzp" displaytext="第三步：明确计算顺序" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.6ePjVaNAHmf" displaytext="第三步：分步计算" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.6FS1QCn3v2l" displaytext="第三步：综合计算" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.5uyKYRnvjTN" displaytext="第四步：结果运用" expand="false" type="slide" />
+            <slidelink slideid="_player.64kumz1sK4r.6dEekeQlcgU" displaytext="第五步：情境迁移" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5hU9SHc0xQp" displaytext="模块四：实战演练，多重任务-亚马逊雨林中转站" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5hU9SHc0xQp.6ktOJpbsP7i" displaytext="任务三" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.6M5mAawMqSf" displaytext="第一步" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.6p02GMBEtky" displaytext="第二步" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.6NyHls9w2FC" displaytext="第三步：明确计算顺序" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.5VtbP6QG7ZS" displaytext="第三步：分步计算" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.5vHJMRIpk3e" displaytext="第三步：综合计算" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.6r6CfcstyIp" displaytext="第四步：结果运用" expand="false" type="slide" />
+            <slidelink slideid="_player.5hU9SHc0xQp.5VKZeqDfLaN" displaytext="第五步：情境迁移" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6jFYK24jGKW" displaytext="任务复盘" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6jFYK24jGKW.6pSF3XkZICw" displaytext="任务复盘引导" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.5oCgSK1cj74" displaytext="拖放题" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.5dCtS8xhcFD" displaytext="错误诊疗" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.6UduBdAVoV9" displaytext="错误诊疗" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.5syKjyGhr7l" displaytext="错误诊疗" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.6Xqy4iZHVIj" displaytext="生活雷达" expand="false" type="slide" />
+            <slidelink slideid="_player.6jFYK24jGKW.5cC5Vf3S0jg" displaytext="任务日志" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.659LGF2De7A" displaytext="自学评价" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.659LGF2De7A.6Z0r6vYW7h9" displaytext="知识掌握" expand="false" type="slide" />
+            <slidelink slideid="_player.659LGF2De7A.5qW2ult4En2" displaytext="理解深度" expand="false" type="slide" />
+            <slidelink slideid="_player.659LGF2De7A.5YiI8gszN6w" displaytext="解题策略" expand="false" type="slide" />
+            <slidelink slideid="_player.659LGF2De7A.5iMJZGhAQG9" displaytext="学习态度" expand="false" type="slide" />
+            <slidelink slideid="_player.659LGF2De7A.5aeK5ppGFEh" displaytext="救援新星" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="通过引导语" expand="true" type="slide" />
+        <slidelink slideid="" displaytext="未通过引导语" expand="true" type="slide" />
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6Etd7CrHwvW.6Y1oSlo7vpn" slidebank="false" type="slide">输入姓名： 点击开始 点击开始 点击开始 点击开始 点击开始 点击开始 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.6BKtevHGn4R" slidebank="false" type="slide">21✕8= 关卡一：思维引擎激活（口算） 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5daECHcd0Hy" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 120✕2= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5dDDoJOkh8r" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 123+0= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5u4qRpPyfHu" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 29✕8= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.64DSFFcYnek" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 49÷7✕4= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.6GjhYnEMAXh" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 81÷9÷9= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5YIZElDf2Jn" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 40÷8✕5= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5ztn08lyKIv" slidebank="false" type="slide">关卡一：思维引擎激活（口算） 54÷6✕3= 在此处键入文本 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.6D8YXSpBTTT" slidebank="false" type="slide">关卡二：战术情境分析（选择）     1、数据机器人在训练屏幕上投影：“南极科考站的帝企鹅宝宝需要喂食，3 箱磷虾可供 6 只企鹅吃 1 天。若要计算 1 箱磷虾能供几只企鹅吃 1 天，需用的运算方法是（        ） a.加法 a.加法 a.加法 a.加法 a.加法 a.加法 b.减法 b.减法 b.减法 b.减法 b.减法 b.减法 c.乘法 c.乘法 c.乘法 c.乘法 c.乘法 c.乘法 d.除法 d.除法 d.除法 d.除法 d.除法 d.除法 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 a b c d </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5psIjIw6wyA" slidebank="false" type="slide">关卡二：战术情境分析（选择）     2、训练基地的 “飞行模拟室” 中，数据机器人展示影像：“救援无人机 2 分钟飞行 600 米，按此状态，5 分钟能飞多远？” 这里的 “按此状态” 指（        ）。 a.飞行速度不变 a.飞行速度不变 a.飞行速度不变 a.飞行速度不变 a.飞行速度不变 a.飞行速度不变 b.飞行高度不变 b.飞行高度不变 b.飞行高度不变 b.飞行高度不变 b.飞行高度不变 b.飞行高度不变 c.飞行路线不变 c.飞行路线不变 c.飞行路线不变 c.飞行路线不变 c.飞行路线不变 c.飞行路线不变 d.所有参数都不变 d.所有参数都不变 d.所有参数都不变 d.所有参数都不变 d.所有参数都不变 d.所有参数都不变 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 a b c d </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5p976p3OeZr" slidebank="false" type="slide">关卡二：战术情境分析（选择）     3、在 “装备工坊” 考核区，数据机器人出示任务：“4 名预备队员 1天能制作 12 个金丝猴攀爬绳， 计算 1 名队员1天能制作几个，正确算式是（        ） a.12×4 a.12×4 a.12×4 a.12×4 a.12×4 a.12×4 b.12÷4 b.12÷4 b.12÷4 b.12÷4 b.12÷4 b.12÷4 c.12+4 c.12+4 c.12+4 c.12+4 c.12+4 c.12+4 d.12-4 d.12-4 d.12-4 d.12-4 d.12-4 d.12-4 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 a b c d </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.6LTvZmMI3Gl" slidebank="false" type="slide">关卡三：初级任务演练（拖拽题） 1 1 1 1 1     1、救援队新印制的 3 本《野外救援手册》总价21元，作为预备队员，你需要计算每本手册的单价。每本手册的单价多少元？ （元） 21 21 21 21 3 3 3 7 7 7 24 24 24 18 18 18 63 63 63 2 2 2 2 2 </slidetext>
+      <slidetext slideid="5Z2E8R6iXHY.5gDBIdyAMXn" slidebank="false" type="slide">关卡三：初级任务演练（拖拽题）     2、凯凯队长准备采购荧光标记笔用于野外救援时标记路线，1支笔售价2元。若采购 6 支， 需向后勤处申请多少元？”  2 2 2 2 6 6 6 6 3 3 3 3 （元） 8 8 8 8 12 12 12 12 4 4 4 4 1 1 1 1 1 2 2 2 2 2 </slidetext>
+      <slidetext slideid="6JU3gUBus27.6bx0KLT8GJ0" slidebank="false" type="slide">点击继续 点击继续 点击继续 点击继续 点击继续 点击继续 </slidetext>
+      <slidetext slideid="6JU3gUBus27.6K3X8CS2pcs" slidebank="false" type="slide">        四川卧龙保护区的小熊猫急需营养竹，附近补给站的竹子捆装出售，3 捆新鲜营养竹售价 12 元。若按营养师建议购买 8 捆，需要多少钱？ 你觉得我们必须先算出什么来呢？ a.5捆比3捆多几捆 a.5捆比3捆多几捆 a.5捆比3捆多几捆 a.5捆比3捆多几捆 a.5捆比3捆多几捆 a.5捆比3捆多几捆 a.5捆比3捆多几捆 b.竹子的总重量是多少 b.竹子的总重量是多少 b.竹子的总重量是多少 b.竹子的总重量是多少 b.竹子的总重量是多少 b.竹子的总重量是多少 b.竹子的总重量是多少 c.每捆竹子的价格 c.每捆竹子的价格 c.每捆竹子的价格 c.每捆竹子的价格 c.每捆竹子的价格 c.每捆竹子的价格 c.每捆竹子的价格 d.小艾开车需要多久 d.小艾开车需要多久 d.小艾开车需要多久 d.小艾开车需要多久 d.小艾开车需要多久 d.小艾开车需要多久 d.小艾开车需要多久 提交 提交 提交 提交 提交 提交 </slidetext>
+      <slidetext slideid="6JU3gUBus27.6MloK9pJ5wD" slidebank="false" type="slide">12÷3=     （元） 提交 提交 提交 提交 提交 提交 </slidetext>
+      <slidetext slideid="6JU3gUBus27.6rosK4OLzRs" slidebank="false" type="slide">12÷3=     （元） 4 提交 提交 提交 提交 提交 提交  4✕8=     （元） 在此处键入文本 答：购买8捆营养竹需要%求总量%元。 单价（单一量） 解题时先求出这个单一量是多少，然后以单一量为标准，再求出所要求的数量。 归一 问题 </slidetext>
+      <slidetext slideid="6JU3gUBus27.6LUE6PEoUbn" slidebank="false" type="slide">提交 提交 提交 提交 提交 提交 答：购买8捆营养竹需要%实习综合算式32a%元。 12÷3×8 = × =     （元）       </slidetext>
+      <slidetext slideid="6JU3gUBus27.6SpqPaSWncU" slidebank="false" type="slide">            注：地图来自标准地图服务网站 </slidetext>
+      <slidetext slideid="5i005aHR7ib.5WsceGjbwkH" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 </slidetext>
+      <slidetext slideid="5i005aHR7ib.6aFrjFdaxXP" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第一步：任务拆解——读取关键信息。 操作提示：点击题干中的关键信息。 </slidetext>
+      <slidetext slideid="5i005aHR7ib.6ZHP2BHUvX4" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第二步：思路引导——明确先求“单一量”。 要算7袋的钱，我们需要先知道什么呢？ a.1袋磷虾的价格 a.1袋磷虾的价格 a.1袋磷虾的价格 a.1袋磷虾的价格 a.1袋磷虾的价格 b.7袋比4袋多几袋 b.7袋比4袋多几袋 b.7袋比4袋多几袋 b.7袋比4袋多几袋 b.7袋比4袋多几袋 c.磷虾的总重量 c.磷虾的总重量 c.磷虾的总重量 c.磷虾的总重量 c.磷虾的总重量 </slidetext>
+      <slidetext slideid="5i005aHR7ib.5q3YHFqaSBL" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 24元 ？元 </slidetext>
+      <slidetext slideid="5i005aHR7ib.5fIxEyQpqON" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 24元 ？元 </slidetext>
+      <slidetext slideid="5i005aHR7ib.6R9inKPbvfi" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 24元 ？元 </slidetext>
+      <slidetext slideid="5i005aHR7ib.6bv8xmVUys2" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第三步：算式推导——明确计算顺序。 通过观察图示，你认为解决这个问题要先计算什么，再计算什么呢？ 提交 提交 提交 提交 提交 提交 ？元 24元 24元 ？元 ？元 24元 1袋磷虾的价格 7袋磷虾的价格 先算                                     ，再算                                     。              </slidetext>
+      <slidetext slideid="5i005aHR7ib.6r7aDJlwcjz" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第三步：算式推导——分步计算。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              1袋磷虾的价格 7袋磷虾的价格 1.先算1袋磷虾的价格： 2.再算7袋磷虾的价格： （元） = ÷ （元） = ✕ 答：购买7袋磷虾，需要准备%南极数值42%元。 </slidetext>
+      <slidetext slideid="5i005aHR7ib.60sFEhHdDMJ" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第三步：算式推导——综合算式。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              1袋磷虾的价格 7袋磷虾的价格 答：购买7袋磷虾，需要准备        元。 = = 24 24 24 7 7 7 4 4 4 6 6 6 7 7 7 42 42 42 42 42 42 28 28 28 14 14 14 96 </slidetext>
+      <slidetext slideid="5i005aHR7ib.6gJTs73VA5w" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 第四步：结果对比运用。 先算                                     ，再算                                     。              1袋磷虾的价格 7袋磷虾的价格 答：购买7袋磷虾，需要准备        元。 = = 24 24 24 7 7 7 4 4 4 6 6 6 7 7 7 42 42 42 42 42 42 科考站准备了50元预算， 购买7袋够吗？ 够 够 够 够 够 够 够 不够 不够 不够 不够 不够 不够 不够 </slidetext>
+      <slidetext slideid="5i005aHR7ib.5uiq8t4pNN0" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步                第五步：情境迁移 —— 同类问题拓展 注：地图来自标准地图服务网站 </slidetext>
+      <slidetext slideid="64kumz1sK4r.65viMaKJIlT" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 </slidetext>
+      <slidetext slideid="64kumz1sK4r.5sQ9M6bhwQC" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ 第一步：任务拆解——读取关键信息。 操作提示：点击题干中的关键信息。 </slidetext>
+      <slidetext slideid="64kumz1sK4r.5zGsqo0A6ZR" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第二步：思路引导——明确先求“单一量”。 要算 8 小时的产量，必须先知道什么呢？ a.8 小时比 5 小时多几小时 a.8 小时比 5 小时多几小时 a.8 小时比 5 小时多几小时 a.8 小时比 5 小时多几小时 a.8 小时比 5 小时多几小时 b.草绳的总重量 b.草绳的总重量 b.草绳的总重量 b.草绳的总重量 b.草绳的总重量 c.1 小时能生产多少米 c.1 小时能生产多少米 c.1 小时能生产多少米 c.1 小时能生产多少米 c.1 小时能生产多少米         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ </slidetext>
+      <slidetext slideid="64kumz1sK4r.5z4mClJxn4U" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 35米 ？米         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ </slidetext>
+      <slidetext slideid="64kumz1sK4r.6EvXNtn00Nn" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 35米 ？米         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ </slidetext>
+      <slidetext slideid="64kumz1sK4r.5f1AzY8cGI9" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第二步：思路引导——明确先求“单一量”。 画图表示数量关系 图示选择 35米 ？米         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ </slidetext>
+      <slidetext slideid="64kumz1sK4r.6RbjL9oejzp" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——明确计算顺序。 通过观察图示，你认为解决这个问题要先计算什么，再计算什么呢？ 提交 提交 提交 提交 提交 提交 1小时能生产多少米 8小时能生产多少米 先算                                      ，再算                                     。                      已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ 35米 ？米 35米 ？米 35米 ？米 具体 抽象 </slidetext>
+      <slidetext slideid="64kumz1sK4r.6ePjVaNAHmf" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——分步计算。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              1小时能生产多少米 8小时能生产多少米 答：8小时能生产%非洲分布数值56%米环保草绳。 2.再算8小时能生产多少米： （元） = ✕ 1.先算1小时能生产多少米： （元） = ÷         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ </slidetext>
+      <slidetext slideid="64kumz1sK4r.6FS1QCn3v2l" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——综合算式。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              1袋磷虾的价格 7袋磷虾的价格 答：购买7袋磷虾，需要准备         元。 = = 35 35 35 8 8 8 5 5 5 7 7 7 8 8 8 56 56 56 56 56 56 105 105 105 48 48 48 75         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ 先算                                     ，再算                                     。              1小时能生产多少米 8小时能生产多少米 </slidetext>
+      <slidetext slideid="64kumz1sK4r.5uyKYRnvjTN" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第四步：结果对比运用。 ＞ ＜ = %610非洲数值条目7b% %610非洲数值条目7a%   我们计算的对吗？该怎样检验呢？   我们计算的对吗？该怎样检验呢？         已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ 如果 8 小时真的生产 56 米，那么 1 小时生产多少米？  56 ÷ 8 =       （米） 5小时生产35米， 那么一小时生产多少米?  35 ÷ 5=       （米） 提交 提交 提交 提交 提交 提交 </slidetext>
+      <slidetext slideid="64kumz1sK4r.6dEekeQlcgU" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步              第五步：情境迁移 —— 同类问题拓展 注：地图来自标准地图服务网站 </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.6ktOJpbsP7i" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.6M5mAawMqSf" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步         亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ 第一步：任务拆解——读取关键信息。 操作提示：点击题干中的关键信息。 </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.6p02GMBEtky" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第二步：思路引导——明确先求“单一量”。 要算 27 箱需要运几次，必须先知道什么呢？ a. 1 次能运多少箱 a. 1 次能运多少箱 a. 1 次能运多少箱 a. 1 次能运多少箱 a. 1 次能运多少箱 b. 27 箱比 18 箱多几箱 b. 27 箱比 18 箱多几箱 b. 27 箱比 18 箱多几箱 b. 27 箱比 18 箱多几箱 b. 27 箱比 18 箱多几箱 c. 每箱物资的重量 c. 每箱物资的重量 c. 每箱物资的重量 c. 每箱物资的重量 c. 每箱物资的重量         亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.6NyHls9w2FC" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——明确计算顺序。 解决这个问题前，你能确定计算顺序吗？ 提交 提交 提交 提交 提交 提交 1 次能运多少箱 1 次能运多少箱 1 次能运多少箱 27箱需要运多少次 27箱需要运多少次 27箱需要运多少次 先算                                      ，再算                                    。                      亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.5VtbP6QG7ZS" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——分步计算。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              1 次能运多少箱 27箱需要运多少次 答：运完27箱物资，需要运%雨林分布数值3%次。 2.再算27箱需要运多少次： （次） = ÷ 1.先算1 次能运多少箱： （箱） = ÷         亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.5vHJMRIpk3e" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第三步：算式推导——综合算式。 提交 提交 提交 提交 提交 提交 先算                                     ，再算                                     。              （                        ） 1袋磷虾的价格 7袋磷虾的价格 答：运完27箱物资，需要运            次。 = =      （次） 18 18 18 2 2 2 27 27 27 27 27 27 54 54 54 2 2 2 3 3 3 3 3 3 36 36 36 20 20 20 9 9 9         亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ 先算                                     ，再算                                     。              1 次能运多少箱 27箱需要运多少次 </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.6r6CfcstyIp" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步 第四步：结果对比运用。 3✕ 9=       （箱） 提交 提交 提交 提交 提交 提交   我们计算的对吗？该怎样检验呢？ 可以用逆运算检查，如果运3次，每次运9箱，总共运多少箱？         亚马逊雨林中转站规划物资运输。中转站的越野车， 2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。 请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ </slidetext>
+      <slidetext slideid="5hU9SHc0xQp.5VKZeqDfLaN" slidebank="false" type="slide">第一步 第一步 第一步 第一步 第一步 第一步 第二步 第二步 第二步 第二步 第二步 第二步 第三步 第三步 第三步 第三步 第三步 第三步 第四步 第四步 第四步 第四步 第四步 第四步 第五步 第五步 第五步 第五步 第五步 第五步       第五步：归一问题类型对比。 27÷9=3（次） 18÷2=9（箱） 7✕8=56（米） 先算                                     ，再算                                     。              1 次能运多少箱 27箱需要运多少次 35÷5=7（米） 6✕7=42（元） 24÷4=6（元） 先算                                     ，再算                                     。              1袋磷虾的价格 7袋磷虾的价格 先算                                     ，再算                                     。              1小时能生产多少米 8小时能生产多少米 继续学习 继续学习 继续学习 继续学习 继续学习 继续学习 注：地图来自标准地图服务网站 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.5oCgSK1cj74" slidebank="false" type="slide">一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 归一问题解决流程图 提取关键信息 提取关键信息 提取关键信息 提取关键信息 明确单一量 明确单一量 明确单一量 明确单一量 开展计算 开展计算 开展计算 开展计算 验证结果 验证结果 验证结果 验证结果 提交 提交 提交 提交 提交 提交 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.5dCtS8xhcFD" slidebank="false" type="slide">案例一 案例一 案例一 案例一 案例二 案例二 案例二 案例二 案例三 案例三 案例三 案例三 帝企鹅宝宝急需磷虾加餐，我们在补给站查到：4 袋磷虾售价 24 元。若按需求购买 7 袋，需要准备多少元？恳请协助计算！ 【错误解法】 24×4=96（元） 96÷7≈14（元） 提交 提交 提交 提交 提交 提交 【错误病历】 预算计算严重不足，实际需要 42 元却算出 14元。 【病症筛查】  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系 【正确解法】 错误诊疗所——错误解决方案辨析 一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.6UduBdAVoV9" slidebank="false" type="slide">已知一台小机器 5 小时能生产 35 米的环保草绳，现在还需要这台小机器再工作 8 小时。我们想知道，接下来的 8 小时，这台小机器能生产多少米环保草绳呢？ 【错误解法】 35×8=280（米） 提交 提交 提交 提交 提交 提交 【错误病历】 草绳产量严重虚高，实际 8 小时仅能生产 56 米。 【病症筛查】  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系 【正确答案】 案例一 案例一 案例一 案例一 案例二 案例二 案例二 案例二 案例三 案例三 案例三 案例三 错误诊疗所——错误解决方案辨析 一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.5syKjyGhr7l" slidebank="false" type="slide">案例一 案例一 案例一 案例一 案例二 案例二 案例二 案例二 案例三 案例三 案例三 案例三 亚马逊雨林中转站规划物资运输。中转站的越野车，2 次能运走 18 箱救援物资，现在还有 27 箱物资等待运输。请你帮忙算一算，运完这 27 箱物资，还需要运几次呢？ 【错误解法】 27-18=9（箱） 9÷2≈5（次） 【错误病历】 运输次数偏多，还有剩余，实际需 3 次却算出 4次剩1箱 【病症筛查】  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  a.混淆✕ ÷号  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  b.忘记求单一量  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系  c.误读数量关系 【正确答案】 错误诊疗所——错误解决方案辨析 一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 提交 提交 提交 提交 提交 提交 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.6Xqy4iZHVIj" slidebank="false" type="slide">提交 提交 提交 提交 提交 提交 将生活难题与数学解法精准匹配，让数学成为你的生活救援工具！ 要求      单价 → 先算 1 盒价格，再 ×5       速度 → 先算 1 小时行驶距离，再 ×5      一天量 → 先算 1 天派送量，再用 60÷ 该量     分钟产量→ 先算 1 分钟包饺子数，再 ×10 超市比价：“酸奶促销，3 盒 18 元。 如果买 5 盒，需要花多少钱？” 超市比价：“酸奶促销，3 盒 18 元。 如果买 5 盒，需要花多少钱？” 超市比价：“酸奶促销，3 盒 18 元。 如果买 5 盒，需要花多少钱？” 超市比价：“酸奶促销，3 盒 18 元。 如果买 5 盒，需要花多少钱？” 超市比价：“酸奶促销，3 盒 18 元。 如果买 5 盒，需要花多少钱？” 旅行油耗：“汽车 3 小时行驶 210 公里。 照这样计算，5 小时能行驶多少公里？” 旅行油耗：“汽车 3 小时行驶 210 公里。 照这样计算，5 小时能行驶多少公里？” 旅行油耗：“汽车 3 小时行驶 210 公里。 照这样计算，5 小时能行驶多少公里？” 旅行油耗：“汽车 3 小时行驶 210 公里。 照这样计算，5 小时能行驶多少公里？” 旅行油耗：“汽车 3 小时行驶 210 公里。 照这样计算，5 小时能行驶多少公里？”  快递时效：“快递员 2 天派送 40 个包裹。 按这个效率，派送 60 个包裹需要几天？”  快递时效：“快递员 2 天派送 40 个包裹。 按这个效率，派送 60 个包裹需要几天？”  快递时效：“快递员 2 天派送 40 个包裹。 按这个效率，派送 60 个包裹需要几天？”  快递时效：“快递员 2 天派送 40 个包裹。 按这个效率，派送 60 个包裹需要几天？”  快递时效：“快递员 2 天派送 40 个包裹。 按这个效率，派送 60 个包裹需要几天？” 食堂打饭：“食堂阿姨 4 分钟包了 24 个饺子。按这个速度，10 分钟能包多少个饺子？” 食堂打饭：“食堂阿姨 4 分钟包了 24 个饺子。按这个速度，10 分钟能包多少个饺子？” 食堂打饭：“食堂阿姨 4 分钟包了 24 个饺子。按这个速度，10 分钟能包多少个饺子？” 食堂打饭：“食堂阿姨 4 分钟包了 24 个饺子。按这个速度，10 分钟能包多少个饺子？” 食堂打饭：“食堂阿姨 4 分钟包了 24 个饺子。按这个速度，10 分钟能包多少个饺子？” 生活归一问题场景 对应单一量及计算步骤 一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 </slidetext>
+      <slidetext slideid="6jFYK24jGKW.5cC5Vf3S0jg" slidebank="false" type="slide">提交 提交 提交 提交 提交 提交 一 解题流程 二 错误诊疗 三 生活雷达 四 任务日志 五、收获总结 归一问题，任务日志 一、任务主题 攻克归一问题，帮助救援队救助小动物。 二、任务目标 掌握归一问题的解题思路，能熟练运用 “先求单一量，再算所求量” 的方法解决问题。 三、知识回顾 （一）含义         在解题时先求出一份是多少（单一量）， 然后以单一量为标准，求出所要求的数量。这一类问题叫做归一问题。 （二）数量关系         总量 ÷ 份数 = 单一量         单一量 × 所占份数 = 所求几份的数量         总量 a÷（总量 b÷ 份数 b） = 份数 a （三）解题思路         先求出单一量，以单一量为标准，求出所要求的数量 。简单说，就是先找到 “1 份” 的量，再看要求的是 “几份”，用乘法或除法算出结果。 提取关键信息 求单一量 开展计算 验证结果 四、任务实践 完成任务流程图         清楚了归一问题得先抓 “单一量”，不管题目怎么变，找到 “1 份” 的量，问题就解决了一半 。         学会用 “总量 ÷ 份数 = 单一量”， “单一量 × 份数 = 总量” 这两组关系，把复杂问题拆成简单步骤 。 六、反思改进         要是遇到更复杂的归一问题，比如有多个 “总量”“份数”，得更仔细梳理关系，别搞混啦 。         可以多找生活里的例子（像买水果、算快递费），练习用归一思路解决，让知识更扎实。 </slidetext>
+      <slidetext slideid="659LGF2De7A.6Z0r6vYW7h9" slidebank="false" type="slide">《神奇动物救援队》 “归一问题”学习评价量表 知识掌握 知识掌握 知识掌握 知识掌握 理解深度 理解深度 理解深度 理解深度 解题策略 解题策略 解题策略 解题策略 学习态度 学习态度 学习态度 学习态度 继续填写 继续填写 继续填写 继续填写 继续填写 继续填写 我需要提示才能想起“归一问题”怎么做。 我需要提示才能想起“归一问题”怎么做。 我需要提示才能想起“归一问题”怎么做。 我需要提示才能想起“归一问题”怎么做。 我需要提示才能想起“归一问题”怎么做。 我需要提示才能想起“归一问题”怎么做。 我知道“归一问题”要分两步，能完成简单的计算。 我知道“归一问题”要分两步，能完成简单的计算。 我知道“归一问题”要分两步，能完成简单的计算。 我知道“归一问题”要分两步，能完成简单的计算。 我知道“归一问题”要分两步，能完成简单的计算。 我知道“归一问题”要分两步，能完成简单的计算。 我能熟练、准确地解决不同情景的“归一问题”。 我能熟练、准确地解决不同情景的“归一问题”。 我能熟练、准确地解决不同情景的“归一问题”。 我能熟练、准确地解决不同情景的“归一问题”。 我能熟练、准确地解决不同情景的“归一问题”。 我能熟练、准确地解决不同情景的“归一问题”。 </slidetext>
+      <slidetext slideid="659LGF2De7A.5qW2ult4En2" slidebank="false" type="slide">《神奇动物救援队》 “归一问题”学习评价量表 知识掌握 知识掌握 知识掌握 知识掌握 理解深度 理解深度 理解深度 理解深度 解题策略 解题策略 解题策略 解题策略 学习态度 学习态度 学习态度 学习态度 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我只是跟着步骤算，不太明白为什么要先算“1个”是多少。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我大概明白要先算出“单价”或“单一量”，才能解决问题。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 我能清楚地向别人解释，为什么“求单一量”是解决这类问题的关键钥匙。 理解深度 继续填写 继续填写 继续填写 继续填写 继续填写 继续填写 </slidetext>
+      <slidetext slideid="659LGF2De7A.5YiI8gszN6w" slidebank="false" type="slide">《神奇动物救援队》 “归一问题”学习评价量表 知识掌握 知识掌握 知识掌握 知识掌握 理解深度 理解深度 理解深度 理解深度 解题策略 解题策略 解题策略 解题策略 学习态度 学习态度 学习态度 学习态度 继续填写 继续填写 继续填写 继续填写 继续填写 继续填写 我在解决问题时，有时会不知道先用乘法还是除法。 我在解决问题时，有时会不知道先用乘法还是除法。 我在解决问题时，有时会不知道先用乘法还是除法。 我在解决问题时，有时会不知道先用乘法还是除法。 我在解决问题时，有时会不知道先用乘法还是除法。 我在解决问题时，有时会不知道先用乘法还是除法。 我能用分步算式解决问题，但列综合算式有点困难。 我能用分步算式解决问题，但列综合算式有点困难。 我能用分步算式解决问题，但列综合算式有点困难。 我能用分步算式解决问题，但列综合算式有点困难。 我能用分步算式解决问题，但列综合算式有点困难。 我能用分步算式解决问题，但列综合算式有点困难。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 我不仅能用分步算式，还能灵活运用综合算式，并尝试用画图等方法帮助思考。 </slidetext>
+      <slidetext slideid="659LGF2De7A.5iMJZGhAQG9" slidebank="false" type="slide">《神奇动物救援队》 “归一问题”学习评价量表 知识掌握 知识掌握 知识掌握 知识掌握 理解深度 理解深度 理解深度 理解深度 解题策略 解题策略 解题策略 解题策略 学习态度 学习态度 学习态度 学习态度 提交测试 提交测试 提交测试 提交测试 提交测试 提交测试 我只完成了最基本的任务。 我只完成了最基本的任务。 我只完成了最基本的任务。 我只完成了最基本的任务。 我只完成了最基本的任务。 我只完成了最基本的任务。 我完成了大部分练习，对学习内容感兴趣。 我完成了大部分练习，对学习内容感兴趣。 我完成了大部分练习，对学习内容感兴趣。 我完成了大部分练习，对学习内容感兴趣。 我完成了大部分练习，对学习内容感兴趣。 我完成了大部分练习，对学习内容感兴趣。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 我积极尝试了所有的挑战，喜欢用数学解决问题，并获得了成就感。 </slidetext>
+      <slidetext slideid="659LGF2De7A.5aeK5ppGFEh" slidebank="false" type="slide">《神奇动物救援队》 “归一问题”自主学习得分情况 %姓名%                    同学：         在神奇动物救援队预备队员实践考核（归一问题）的评选中荣获         特发此证，以资鼓励！ 颁发单位：神奇动物救援队 结束 学习 结束 学习 结束 学习 结束 学习 结束 学习 结束 学习 学习得分：%results9.scorepercent% </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='华文行楷' style='font-size: 11px;' size='11' color='#444444'&gt;&amp;#20197;&amp;#19979;&amp;#26159;&amp;#19968;&amp;#20123;&amp;#26377;&amp;#29992;&amp;#30340;&amp;#38142;&amp;#25509;&amp;#21644;&amp;#25991;&amp;#26723;:&lt;/font&gt;&lt;/p&gt;" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
